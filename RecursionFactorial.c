@@ -1,4 +1,4 @@
-Factorial of a number. 
+// Factorial of a number 
 
 #include <stdio.h>
 long long int factorial(int n) {
