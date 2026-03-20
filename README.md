@@ -15,7 +15,7 @@ This repository contains a curated collection of **recursion-based programs in C
 The goal is to build strong intuition through:
 - Clear problem breakdown.
 - Recursive thinking.
-- Codes and explanations.
+- Codes that are easy to understand.
 - Increasing difficulty levels. 
 
 I hope this helps :) 
